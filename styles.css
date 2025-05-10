@@ -15,3 +15,7 @@ header {
   padding-left: 24px;
   padding-top: 24px;
 }
+
+.header-link {
+  padding: 24px;
+}
